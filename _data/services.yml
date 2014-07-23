@@ -2,8 +2,8 @@ companies:
   - name: Mega
     url: http://mega.co.nz
     twitter: megaPrivacy
-    
-  - name: Catayst IT
+
+  - name: Catalyst IT
     url: http://catalyst.net.nz
     twitter: catalystnz
 
@@ -20,8 +20,8 @@ companies:
   - name: DataCom
     url: http://datacom.co.nz/
     twitter: Datacom
-  
-  - name: Silverstripe
+
+  - name: SilverStripe
     url: http://silverstripe.com/
     twitter: silverstripe
 
