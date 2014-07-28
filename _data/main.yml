@@ -17,6 +17,9 @@ sections:
     title: Hardware 
     icon: globe
 
+  - id: education
+    title: Education
+
   - id: nonprofit
     title: Non-Profit
  
@@ -32,5 +35,3 @@ sections:
   - id: software
     title: Software 
     icon: code
- 
-
