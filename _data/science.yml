@@ -2,6 +2,10 @@ companies:
   - name: Dragonfly Science
     url: http://dragonfly.co.nz 
     twitter: dflysci
+    diversitydata: yes
+    documentation: https://twitter.com/dflysci/status/493699082716606464
+    date-updated: 2014
+
   - name: AgResearch
     url: http://www.agresearch.co.nz/
     twitter: AgResearchNEWS
