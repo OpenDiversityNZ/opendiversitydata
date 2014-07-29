@@ -19,6 +19,10 @@ companies:
   - name: Landcare Research
     url: http://www.landcareresearch.co.nz/
     twitter: LCR_NZ
+    diversitydata: yes
+    documentation: http://www.landcareresearch.co.nz/about/sustainability/annual-reports
+    date-updated: 2014
+
   - name: NIWA
     url:  http://www.niwa.co.nz/
     twitter: niwa_nz
