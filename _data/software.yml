@@ -8,6 +8,14 @@ companies:
     date-updated: YYYY
     status: No
 
+  - name: Hoist
+    url: http://hoistapps.com
+    twitter: hoistapps
+    img: hoist.jpg
+    data: Yes
+    date-updated: October 2014
+    documentation: https://twitter.com/buildmaster/status/525478771885760512
+    
 #  - name: Worksite Connect
 #    url: http://worksiteconnect.co.nz/
 
